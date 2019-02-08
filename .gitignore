@@ -1,0 +1,8 @@
+OLD/
+reports/
+data/processed/gdf.csv
+hyperopt.ipynb
+create_environment.py
+playground.ipynb
+kaggle_submission.ipynb
+.ipynb_checkpoints/
